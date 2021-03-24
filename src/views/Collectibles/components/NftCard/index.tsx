@@ -31,7 +31,7 @@ const Header = styled(InfoRow)`
   min-height: 28px;
 `
 
-const DetailsButton = styled(Button).attrs({ variant: 'text' })`
+const DetailsButton = styled(Button)`
   height: auto;
   padding: 16px 24px;
 
